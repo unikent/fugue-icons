@@ -1,3 +1,17 @@
+Version 3.0.1 (May 13, 2011)
+- Add <clock-network>.
+- Add <disc-rename>.
+- Add <disk-rename>.
+- Add <document-braille>.
+- Add <image-saturation*>.
+- Add <milestone>.
+- Add <network-ip> and <network-ip-local>.
+- Add <occluder>.
+- Add <sort-alphabet-column> and <sort-number-column>.
+- Add <ui-spacer>.
+- Add <weight*>.
+- Add <wrap*>.
+------------------------------------------------------------
 Version 3.0 (July 16, 2010)
 - Add <application-medium>.
 - Add <blog-medium>.

@@ -760,6 +760,7 @@ clock--plus.png
 clock-frame.png
 clock-history.png
 clock-history-frame.png
+clock-network.png
 clock-select.png
 clock-select-remain.png
 clock-small.png
@@ -969,6 +970,7 @@ disc-blue.png
 disc-case.png
 disc-case-label.png
 disc-label.png
+disc-rename.png
 disc-share.png
 disc-small.png
 discs.png
@@ -979,6 +981,7 @@ disk--minus.png
 disk--pencil.png
 disk--plus.png
 disk-black.png
+disk-rename.png
 disk-return.png
 disk-return-black.png
 disk-share.png
@@ -1023,6 +1026,7 @@ document-attribute-y.png
 document-attribute-z.png
 document-binary.png
 document-block.png
+document-braille.png
 document-broken.png
 document-bookmark.png
 document-break.png
@@ -1526,6 +1530,8 @@ image-medium.png
 image-reflection.png
 image-resize.png
 image-resize-actual.png
+image-saturation.png
+image-saturation-up.png
 image-select.png
 image-share.png
 image-sharpen.png
@@ -1851,6 +1857,7 @@ microphone--exclamation.png
 microphone--minus.png
 microphone--pencil.png
 microphone--plus.png
+milestone.png
 minus.png
 minus-button.png
 minus-circle.png
@@ -1938,6 +1945,8 @@ network-clouds.png
 network-ethernet.png
 network-firewall.png
 network-hub.png
+network-ip.png
+network-ip-local.png
 network-status.png
 network-status-away.png
 network-status-busy.png
@@ -1978,6 +1987,7 @@ notebook-medium.png
 notebook-share.png
 notebook-sticky-note.png
 notebooks.png
+occluder.png
 odata.png
 odata-balloon.png
 odata-document.png
@@ -2453,10 +2463,12 @@ sort--minus.png
 sort--pencil.png
 sort--plus.png
 sort-alphabet.png
+sort-alphabet-column.png
 sort-alphabet-descending.png
 sort-date.png
 sort-date-descending.png
 sort-number.png
+sort-number-column.png
 sort-number-descending.png
 sort-price.png
 sort-price-descending.png
@@ -2807,6 +2819,7 @@ ui-slider-100.png
 ui-slider-vertical.png
 ui-slider-vertical-050.png
 ui-slider-vertical-100.png
+ui-spacer.png
 ui-spin.png
 ui-split-panel.png
 ui-split-panel-vertical.png
@@ -2963,6 +2976,12 @@ webcam--plus.png
 webcam-medium.png
 webcam-network.png
 webcam-share.png
+weight.png
+weight--arrow.png
+weight--exclamation.png
+weight--minus.png
+weight--pencil.png
+weight--plus.png
 wheel.png
 wooden-box.png
 wooden-box--arrow.png
@@ -2971,6 +2990,15 @@ wooden-box--minus.png
 wooden-box--pencil.png
 wooden-box--plus.png
 wooden-box-label.png
+wrap.png
+wrap-behind.png
+wrap-between.png
+wrap-edit.png
+wrap-front.png
+wrap-option.png
+wrap-square.png
+wrap-through.png
+wrap-tight.png
 wrench.png
 wrench--arrow.png
 wrench--exclamation.png
