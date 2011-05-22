@@ -1,3 +1,4 @@
+acorn.png
 address-book.png
 address-book--arrow.png
 address-book--exclamation.png
@@ -137,6 +138,7 @@ arrow-curve-180-left.png
 arrow-curve-270.png
 arrow-curve-270-left.png
 arrow-in.png
+arrow-in-out.png
 arrow-join.png
 arrow-join-090.png
 arrow-join-180.png
@@ -558,6 +560,13 @@ box-medium.png
 box-search-result.png
 box-share.png
 box-small.png
+brain.png
+brain--arrow.png
+brain--exclamation.png
+brain--minus.png
+brain--pencil.png
+brain--plus.png
+brain-empty.png
 briefcase.png
 briefcase--arrow.png
 briefcase--exclamation.png
@@ -695,6 +704,7 @@ cassette--plus.png
 cassette-label.png
 cassette-small.png
 category.png
+certificate.png
 chain.png
 chain--arrow.png
 chain--exclamation.png
@@ -721,6 +731,7 @@ chart-pie.png
 chart-pie-separate.png
 chart-up.png
 chart-up-color.png
+checkerboard.png
 chevron.png
 chevron-expand.png
 chevron-small.png
@@ -764,6 +775,7 @@ clock-network.png
 clock-select.png
 clock-select-remain.png
 clock-small.png
+co2.png
 color.png
 color--arrow.png
 color--exclamation.png
@@ -1677,7 +1689,10 @@ leaf--exclamation.png
 leaf--minus.png
 leaf--pencil.png
 leaf--plus.png
+leaf-plant.png
 leaf-wormhole.png
+leaf-red.png
+leaf-yellow.png
 license-key.png
 lifebuoy.png
 lifebuoy--arrow.png
@@ -2220,6 +2235,9 @@ quill--arrow.png
 quill--exclamation.png
 quill--minus.png
 quill--plus.png
+radar.png
+radioactivity.png
+radioactivity-drum.png
 rainbow.png
 receipt.png
 receipt--arrow.png
@@ -2456,6 +2474,7 @@ sofa--exclamation.png
 sofa--minus.png
 sofa--pencil.png
 sofa--plus.png
+solar-panel.png
 sort.png
 sort--arrow.png
 sort--exclamation.png
@@ -2678,6 +2697,7 @@ television--pencil.png
 television--plus.png
 television-image.png
 television-off.png
+television-test.png
 terminal.png
 terminal--arrow.png
 terminal--exclamation.png
@@ -2686,6 +2706,14 @@ terminal--pencil.png
 terminal--plus.png
 terminal-medium.png
 terminal-network.png
+thermometer.png
+thermometer--arrow.png
+thermometer--exclamation.png
+thermometer--minus.png
+thermometer--pencil.png
+thermometer--plus.png
+thermometer-high.png
+thermometer-low.png
 thumb.png
 thumb-up.png
 tick.png
@@ -2874,6 +2902,7 @@ usb-flash-drive--exclamation.png
 usb-flash-drive--minus.png
 usb-flash-drive--pencil.png
 usb-flash-drive--plus.png
+usb-flash-drive-logo.png
 user.png
 user--arrow.png
 user--exclamation.png
@@ -2967,6 +2996,7 @@ weather-moon-clouds.png
 weather-moon-fog.png
 weather-rain.png
 weather-snow.png
+weather-tornado.png
 webcam.png
 webcam--arrow.png
 webcam--exclamation.png

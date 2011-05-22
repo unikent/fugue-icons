@@ -1,3 +1,23 @@
+Version 3.0.2 (May 22, 2011)
+- Add <acorn>.
+- Add <arrow-in-out>.
+- Add <brain*>.
+- Add <certificate>.
+- Add <checkerboard>.
+- Add <co2>.
+- Add <leaf-plant>, <leaf-red> and <leaf-yellow>.
+- Add <radar>.
+- Add <radioactivity*>.
+- Add <solar-panel>.
+- Add <television-test>.
+- Add <thermometer*>.
+- Add <usb-flash-drive-logo>.
+- Add <weather-tornado>.
+- Add <24/cross-circle>.
+- Add <24/question>.
+- Add <32/cross*>.
+- Add <32/question>.
+------------------------------------------------------------
 Version 3.0.1 (May 13, 2011)
 - Add <clock-network>.
 - Add <disc-rename>.
