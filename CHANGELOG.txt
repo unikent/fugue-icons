@@ -1,3 +1,15 @@
+Version 3.0.3 (May 31, 2011)
+- Add <android>.
+- Add <folding-fan>.
+- Add <hand-finger>, <hand-horns> and <hand-ily>.
+- Add <lollipop>.
+- Add <paper-bag-recycle>.
+- Add <piggy-bank*>.
+- Add <smiley-angel> and <smiley-nerd>.
+- Add <tag-cloud>.
+- Add <24/e-book-reader>.
+- Add <32/e-book-reader>.
+------------------------------------------------------------
 Version 3.0.2 (May 22, 2011)
 - Add <acorn>.
 - Add <arrow-in-out>.

@@ -17,6 +17,7 @@ alarm-clock-blue.png
 alarm-clock-select.png
 alarm-clock-select-remain.png
 anchor.png
+android.png
 application.png
 application--arrow.png
 application--exclamation.png
@@ -1380,6 +1381,7 @@ folder-tree.png
 folder-zipper.png
 folders.png
 folders-stack.png
+folding-fan.png
 fruit.png
 fruit-grape.png
 fruit-lime.png
@@ -1460,6 +1462,9 @@ hammer--plus.png
 hammer-left.png
 hammer-screwdriver.png
 hand.png
+hand-finger.png
+hand-horns.png
+hand-ily.png
 hand-point.png
 hand-point-090.png
 hand-point-180.png
@@ -1726,6 +1731,7 @@ lock--pencil.png
 lock--plus.png
 lock-small.png
 lock-unlock.png
+lollipop.png
 luggage.png
 luggage--arrow.png
 luggage--exclamation.png
@@ -2058,6 +2064,7 @@ paper-bag--minus.png
 paper-bag--pencil.png
 paper-bag--plus.png
 paper-bag-label.png
+paper-bag-recycle.png
 paper-clip.png
 paper-clip-small.png
 paper-plane.png
@@ -2109,6 +2116,8 @@ picture-small-sunset.png
 picture-sunset.png
 pictures.png
 pictures-stack.png
+piggy-bank.png
+piggy-bank-empty.png
 pill.png
 pill--arrow.png
 pill--exclamation.png
@@ -2424,6 +2433,7 @@ slide-powerpoint.png
 slides.png
 slides-stack.png
 smiley.png
+smiley-angel.png
 smiley-confuse.png
 smiley-cool.png
 smiley-cry.png
@@ -2439,6 +2449,7 @@ smiley-lol.png
 smiley-mad.png
 smiley-money.png
 smiley-mr-green.png
+smiley-nerd.png
 smiley-neutral.png
 smiley-razz.png
 smiley-red.png
@@ -2649,6 +2660,7 @@ tag--exclamation.png
 tag--minus.png
 tag--pencil.png
 tag--plus.png
+tag-cloud.png
 tag-export.png
 tag-import.png
 tag-label.png
