@@ -1,3 +1,12 @@
+Version 3.0.4 (June 10, 2011)
+- Add <abacus>.
+- Add <bread*>.
+- Add <curtain>.
+- Add <hamburger>.
+- Add <hand-shake>.
+- Add <pearl*>.
+- Add <zodiac*>.
+------------------------------------------------------------
 Version 3.0.3 (May 31, 2011)
 - Add <android>.
 - Add <folding-fan>.

@@ -1,3 +1,4 @@
+abacus.png
 acorn.png
 address-book.png
 address-book--arrow.png
@@ -568,6 +569,8 @@ brain--minus.png
 brain--pencil.png
 brain--plus.png
 brain-empty.png
+bread.png
+breads.png
 briefcase.png
 briefcase--arrow.png
 briefcase--exclamation.png
@@ -927,6 +930,7 @@ cursor-question.png
 cursor-small.png
 cushion.png
 cushion-gray.png
+curtain.png
 cutlery.png
 cutlery-fork.png
 cutlery-knife.png
@@ -1453,6 +1457,7 @@ guitar--exclamation.png
 guitar--minus.png
 guitar--pencil.png
 guitar--plus.png
+hamburger.png
 hammer.png
 hammer--arrow.png
 hammer--exclamation.png
@@ -1470,6 +1475,7 @@ hand-point-090.png
 hand-point-180.png
 hand-point-270.png
 hand-property.png
+hand-shake.png
 hand-share.png
 hard-hat.png
 hard-hat--arrow.png
@@ -2082,6 +2088,8 @@ pda--minus.png
 pda--pencil.png
 pda--plus.png
 pda-off.png
+pearl.png
+pearl-shell.png
 pencil.png
 pencil--arrow.png
 pencil--exclamation.png
@@ -3056,6 +3064,18 @@ xfn-friend-met.png
 xfn-sweetheart.png
 xfn-sweetheart-met.png
 yin-yang.png
+zodiac.png
+zodiac-aries.png
+zodiac-cancer.png
+zodiac-capricorn.png
+zodiac-gemini.png
+zodiac-leo.png
+zodiac-libra.png
+zodiac-pisces.png
+zodiac-sagittarius.png
+zodiac-scorpio.png
+zodiac-taurus.png
+zodiac-virgo.png
 zone.png
 zone--arrow.png
 zone--exclamation.png
