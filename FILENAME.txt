@@ -333,6 +333,8 @@ blog--pencil.png
 blog--plus.png
 blog-blue.png
 blog-medium.png
+blog-posterous.png
+blog-tumblr.png
 blogs.png
 blogs-stack.png
 blue-document.png
@@ -676,6 +678,8 @@ camera-black.png
 camera-lens.png
 camera-small.png
 camera-small-black.png
+candle.png
+candle-white.png
 car.png
 car--arrow.png
 car--exclamation.png
@@ -1398,6 +1402,7 @@ funnel--minus.png
 funnel--pencil.png
 funnel--plus.png
 funnel-small.png
+futon.png
 game.png
 game-monitor.png
 gear.png
@@ -1931,6 +1936,8 @@ monitor-wallpaper.png
 monitor-window.png
 monitor-window-3d.png
 monitor-window-flow.png
+monkey.png
+monkey-sulky.png
 mouse.png
 mouse--arrow.png
 mouse--exclamation.png
@@ -2423,6 +2430,7 @@ shopping-basket--pencil.png
 shopping-basket--plus.png
 shortcut.png
 shortcut-small.png
+shovel.png
 sitemap.png
 sitemap-application.png
 sitemap-application-blue.png
@@ -2757,6 +2765,8 @@ ticket--pencil.png
 ticket--plus.png
 ticket-small.png
 ticket-stub.png
+tie.png
+tie-warm.png
 toggle.png
 toggle-expand.png
 toggle-small.png

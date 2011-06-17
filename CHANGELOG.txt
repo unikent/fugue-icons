@@ -1,3 +1,11 @@
+Version 3.1 (June 17, 2011)
+- Add <blog-posterous> and <blog-tumblr>.
+- Add <candle*>.
+- Add <futon>.
+- Add <monkey*>.
+- Add <shovel>.
+- Add <tie*>.
+------------------------------------------------------------
 Version 3.0.4 (June 10, 2011)
 - Add <abacus>.
 - Add <bread*>.
@@ -88,74 +96,7 @@ Version 3.0 (July 16, 2010)
 - Add <server-medium>.
 - Add <slide-medium>.
 ------------------------------------------------------------
-Version 2.9.6 (July 14, 2010)
-- Add <spray-medium>.
-- Add <stamp-medium>.
-- Add <sticky-note-medium>.
-- Add <store-medium>.
-- Add <switch-medium>.
-- Add <system-monitor-medium>.
-- Add <table-medium>.
-- Add <tag-medium>.
-- Add <telephone-medium>.
-- Add <terminal-medium>.
-- Add <toolbox--*>.
-- Add <webcam-medium>.
-- Add <zone-medium>.
-------------------------------------------------------------
-Version 2.9.5 (July 2, 2010)
-- Add <tick-red> and <tick-small-red>.
-- Add <toilet-*>.
-- Add <ui-tooltip--*>.
-------------------------------------------------------------
-Version 2.9.4 (June 16, 2010)
-- Add <blue-document-broken> and <blue-document-sticky-note>.
-- Add <blue-folder-broken> and <blue-folder-sticky-note>.
-- Add <document-broken> and <document-sticky-note>.
-- Add <folder-broken> and <folder-sticky-note>.
-- Add <network-status*> and <network-wireless>.
-- Add <notebook-sticky-note>.
-- Add <receipt-sticky-note>.
-------------------------------------------------------------
-Version 2.9.3a (May 30, 2010)
-- Add <24/user*>.
-------------------------------------------------------------
-Version 2.9.3 (May 28, 2010)
-- Add <chart-pie*>.
-- Add <plug-connect> and <plug-disconnect*>.
-- Add <sd-memory-card>.
-- Add <24/ui-color-picker*>.
-- Add <24/ui-tab>.
-- Add <24/ui-toolbar>.
-- Add <32/color-swatch>.
-------------------------------------------------------------
-Version 2.9.2 (May 26, 2010)
-- Add <blue-document-xaml>.
-- Add <blue-folder-open-feed>.
-- Add <document-xaml>.
-- Add <folder-open-feed>.
-- Add <24/bookmark-export> and <24/bookmark-import>.
-- Add <24/card-export> and <24/card-import>.
-- Add <24/film>.
-- Add <24/tag-export> and <24/tag-import>.
-- Add <32/film>.
-------------------------------------------------------------
-Version 2.9.1 (May 23, 2010)
-- Add <balloon-buzz*>.
-- Add <24/blue-document*>.
-- Add <32/blue-document*>.
-------------------------------------------------------------
 Version 2.9 (May 20, 2010)
-- Add <blue-document*>.
-- Add <blue-documents*>.
-- Add <document-tree>.
-- Add <folder-tree>.
-- Add <graphic-card>.
-- Add <24/calendar-blue>.
-- Add <32/calendar-blue>.
-- Add <32/keyboard*>.
-- Add <32/layer>.
-- Add <32/notebook>.
 ------------------------------------------------------------
 Version 2.8 (May 8, 2010)
 ------------------------------------------------------------
