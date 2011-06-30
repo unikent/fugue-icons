@@ -1,3 +1,16 @@
+Version 3.1.1 (June 31, 2011)
+- Add <animal>.
+- Add <bauble>.
+- Add <marker-small>.
+- Rename <monkey*> to <animal-monkey*>.
+- Add <remote-control>.
+- Add <resource-monitor>.
+- Add <road-sign>.
+- Add <sport*>.
+- Add <24/minus-circle>.
+- Add <24/navigation*>.
+- Add <24/plus-circle>.
+------------------------------------------------------------
 Version 3.1 (June 17, 2011)
 - Add <blog-posterous> and <blog-tumblr>.
 - Add <candle*>.
