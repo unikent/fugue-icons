@@ -19,6 +19,10 @@ alarm-clock-select.png
 alarm-clock-select-remain.png
 anchor.png
 android.png
+animal.png
+animal-dog.png
+animal-monkey.png
+animal-monkey-sulky.png
 application.png
 application--arrow.png
 application--exclamation.png
@@ -276,6 +280,7 @@ battery-empty.png
 battery-full.png
 battery-low.png
 battery-plug.png
+bauble.png
 beaker.png
 beaker--arrow.png
 beaker--exclamation.png
@@ -559,6 +564,7 @@ box--exclamation.png
 box--minus.png
 box--pencil.png
 box--plus.png
+box-document.png
 box-label.png
 box-medium.png
 box-search-result.png
@@ -687,6 +693,7 @@ car--minus.png
 car--pencil.png
 car--plus.png
 car-red.png
+car-taxi.png
 card.png
 card--arrow.png
 card--exclamation.png
@@ -1447,6 +1454,7 @@ globe-small.png
 globe-small-green.png
 gradient.png
 gradient-small.png
+graduation-hat.png
 graphic-card.png
 grid.png
 grid-dot.png
@@ -1826,6 +1834,7 @@ marker--exclamation.png
 marker--minus.png
 marker--pencil.png
 marker--plus.png
+marker-small.png
 mask.png
 medal.png
 medal--arrow.png
@@ -1936,8 +1945,6 @@ monitor-wallpaper.png
 monitor-window.png
 monitor-window-3d.png
 monitor-window-flow.png
-monkey.png
-monkey-sulky.png
 mouse.png
 mouse--arrow.png
 mouse--exclamation.png
@@ -2282,6 +2289,7 @@ receipt-sticky-note.png
 receipt-text.png
 receipts.png
 receipts-text.png
+remote-control.png
 report.png
 report--arrow.png
 report--exclamation.png
@@ -2295,7 +2303,9 @@ report-paper.png
 report-word.png
 reports.png
 reports-stack.png
+resource-monitor.png
 ring.png
+road-sign.png
 robot.png
 robot-off.png
 rocket.png
@@ -2542,6 +2552,14 @@ spectacle-small.png
 spectacle-sunglass.png
 spell-check.png
 spell-check-error.png
+sport.png
+sport-basketball.png
+sport-cricket.png
+sport-football.png
+sport-golf.png
+sport-soccer.png
+sport-tennis.png
+sports.png
 spray.png
 spray--arrow.png
 spray--exclamation.png
@@ -2559,6 +2577,7 @@ sql-join-outer.png
 sql-join-outer-exclude.png
 sql-join-right.png
 sql-join-right-exclude.png
+stairs.png
 stamp.png
 stamp--arrow.png
 stamp--exclamation.png
@@ -2678,6 +2697,7 @@ tag--pencil.png
 tag--plus.png
 tag-cloud.png
 tag-export.png
+tag-hash.png
 tag-import.png
 tag-label.png
 tag-label-black.png
