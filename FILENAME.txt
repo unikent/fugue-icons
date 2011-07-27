@@ -52,6 +52,8 @@ application-list.png
 application-medium.png
 application-monitor.png
 application-network.png
+application-plus.png
+application-plus-black.png
 application-rename.png
 application-resize.png
 application-resize-actual.png
@@ -70,6 +72,7 @@ application-small-list-blue.png
 application-split.png
 application-split-tile.png
 application-split-vertical.png
+application-sub.png
 application-table.png
 application-task.png
 application-terminal.png
@@ -2432,6 +2435,13 @@ shield--exclamation.png
 shield--minus.png
 shield--pencil.png
 shield--plus.png
+shoe.png
+shoe--arrow.png
+shoe--exclamation.png
+shoe--minus.png
+shoe--pencil.png
+shoe--plus.png
+shoe-high.png
 shopping-basket.png
 shopping-basket--arrow.png
 shopping-basket--exclamation.png
@@ -2813,6 +2823,12 @@ traffic-light--minus.png
 traffic-light--pencil.png
 traffic-light--plus.png
 traffic-light-off.png
+train.png
+train--arrow.png
+train--exclamation.png
+train--minus.png
+train--pencil.png
+train--plus.png
 trophy.png
 trophy--arrow.png
 trophy--exclamation.png
@@ -3047,6 +3063,10 @@ weather-moon-fog.png
 weather-rain.png
 weather-snow.png
 weather-tornado.png
+web-slice.png
+web-slice-balloon.png
+web-slice-document.png
+web-slice-small.png
 webcam.png
 webcam--arrow.png
 webcam--exclamation.png

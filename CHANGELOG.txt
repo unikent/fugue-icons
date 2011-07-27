@@ -1,3 +1,9 @@
+Version 3.1.3 (August 5, 2011)
+- Add <application-plus*> and <application-sub>.
+- Add <shoe*>.
+- Add <train*>.
+- Add <web-slice*>.
+------------------------------------------------------------
 Version 3.1.2 (July 27, 2011)
 - Add <box-document>.
 - Add <car-taxi>.
