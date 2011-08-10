@@ -23,6 +23,7 @@ animal.png
 animal-dog.png
 animal-monkey.png
 animal-monkey-sulky.png
+animal-penguin.png
 application.png
 application--arrow.png
 application--exclamation.png
@@ -789,6 +790,7 @@ clock--plus.png
 clock-frame.png
 clock-history.png
 clock-history-frame.png
+clock-moon-phase.png
 clock-network.png
 clock-select.png
 clock-select-remain.png
@@ -1146,6 +1148,9 @@ door--plus.png
 door-open.png
 door-open-in.png
 door-open-out.png
+download.png
+download-linux.png
+download-mac-os.png
 drawer.png
 drawer--arrow.png
 drawer--exclamation.png
@@ -1761,6 +1766,7 @@ luggage--minus.png
 luggage--pencil.png
 luggage--plus.png
 luggage-tag.png
+mac-os.png
 magnet.png
 magnet--arrow.png
 magnet--exclamation.png
@@ -2211,6 +2217,7 @@ postage-stamp--exclamation.png
 postage-stamp--minus.png
 postage-stamp--pencil.png
 postage-stamp--plus.png
+power-supply.png
 present.png
 present--arrow.png
 present--exclamation.png
@@ -2672,8 +2679,10 @@ table--plus.png
 table-delete.png
 table-delete-column.png
 table-delete-row.png
+table-draw.png
 table-excel.png
 table-export.png
+table-heatmap.png
 table-import.png
 table-insert.png
 table-insert-column.png
@@ -3083,6 +3092,7 @@ weight--minus.png
 weight--pencil.png
 weight--plus.png
 wheel.png
+windows.png
 wooden-box.png
 wooden-box--arrow.png
 wooden-box--exclamation.png
