@@ -755,6 +755,7 @@ chevron.png
 chevron-expand.png
 chevron-small.png
 chevron-small-expand.png
+church.png
 cigarette.png
 cigarette-stop.png
 clapperboard.png
@@ -1326,6 +1327,7 @@ film--plus.png
 film-cast.png
 film-medium.png
 film-small.png
+film-timeline.png
 films.png
 fingerprint.png
 fingerprint-recognition.png
@@ -1742,6 +1744,8 @@ light-bulb-code.png
 light-bulb-off.png
 light-bulb-small.png
 light-bulb-small-off.png
+lighthouse.png
+lighthouse-shine.png
 lightning.png
 lightning--arrow.png
 lightning--exclamation.png
@@ -1928,6 +1932,7 @@ mobile-phone--plus.png
 mobile-phone-cast.png
 mobile-phone-medium.png
 mobile-phone-off.png
+molecule.png
 money.png
 money--arrow.png
 money--exclamation.png
@@ -2325,6 +2330,8 @@ rocket--minus.png
 rocket--pencil.png
 rocket--plus.png
 rocket-fly.png
+rubber-balloon.png
+rubber-balloons.png
 ruby.png
 ruler.png
 ruler--arrow.png
@@ -2971,6 +2978,9 @@ umbrella--minus.png
 umbrella--pencil.png
 umbrella--plus.png
 universal.png
+upload.png
+upload-linux.png
+upload-mac-os.png
 usb-flash-drive.png
 usb-flash-drive--arrow.png
 usb-flash-drive--exclamation.png
