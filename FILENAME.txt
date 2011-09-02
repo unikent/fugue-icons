@@ -1150,6 +1150,7 @@ door-open.png
 door-open-in.png
 door-open-out.png
 download.png
+download-cloud.png
 download-linux.png
 download-mac-os.png
 drawer.png
@@ -2319,6 +2320,7 @@ report-word.png
 reports.png
 reports-stack.png
 resource-monitor.png
+ribbon.png
 ring.png
 road-sign.png
 robot.png
@@ -2979,6 +2981,7 @@ umbrella--pencil.png
 umbrella--plus.png
 universal.png
 upload.png
+upload-cloud.png
 upload-linux.png
 upload-mac-os.png
 usb-flash-drive.png

@@ -1,3 +1,17 @@
+Version 3.1.6 (September 2, 2011)
+- Add <download-cloud>.
+- Add <ribbon>.
+- Add <upload-cloud>.
+- Add <24/arrow-circle*>, <24/arrow-curve*>,
+  <24/arrow-join*>, <24/arrow-merge*>, <24/arrow-repeat*>,
+  <24/arrow-retweet> and <24/arrow-split*>.
+- Add <24/blue-document-text-image>.
+- Add <24/counter>.
+- Add <24/document-text-image>.
+- Add <32/blue-document-text-image>.
+- Add <32/counter>.
+- Add <32/document-text-image>.
+------------------------------------------------------------
 Version 3.1.5 (August 26, 2011)
 - Add <church>.
 - Add <film-timeline>.
