@@ -1183,8 +1183,11 @@ drive-share.png
 drive-small.png
 drive-upload.png
 dummy.png
+dummy-happy.png
+dummy-sad.png
 dummy-small.png
 e-book-reader.png
+e-book-reader-black.png
 e-book-reader-white.png
 edit.png
 edit-alignment.png
@@ -1642,6 +1645,7 @@ keyboard--exclamation.png
 keyboard--minus.png
 keyboard--pencil.png
 keyboard--plus.png
+keyboard-command.png
 keyboard-space.png
 language.png
 language-balloon.png
@@ -3085,6 +3089,7 @@ weather-moon-fog.png
 weather-rain.png
 weather-snow.png
 weather-tornado.png
+weather-wind.png
 web-slice.png
 web-slice-balloon.png
 web-slice-document.png
