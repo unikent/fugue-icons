@@ -1208,6 +1208,12 @@ edit-direction.png
 edit-direction-rtl.png
 edit-drop-cap.png
 edit-heading.png
+edit-heading-1.png
+edit-heading-2.png
+edit-heading-3.png
+edit-heading-4.png
+edit-heading-5.png
+edit-heading-6.png
 edit-hyphenation.png
 edit-image.png
 edit-image-center.png
@@ -2309,6 +2315,10 @@ receipt-sticky-note.png
 receipt-text.png
 receipts.png
 receipts-text.png
+regular-expression.png
+regular-expression-delimiter.png
+regular-expression-search.png
+regular-expression-search-match.png
 remote-control.png
 report.png
 report--arrow.png
@@ -2336,6 +2346,8 @@ rocket--minus.png
 rocket--pencil.png
 rocket--plus.png
 rocket-fly.png
+rosette.png
+rosette-label.png
 rubber-balloon.png
 rubber-balloons.png
 ruby.png

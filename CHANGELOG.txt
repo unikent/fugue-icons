@@ -1,3 +1,16 @@
+Version 3.1.8 (September 20, 2011)
+- Add <edit-heading-*>.
+- Add <regular-expression*>.
+- Add <rosette*>.
+- Add <32/bookmark>.
+- Add <32/card*>.
+- Add <32/disc*>.
+- Add <32/minus-circle>.
+- Add <32/plus-circle>.
+- Add <32/smiley*>.
+- Add <32/sticky-note>.
+- Add <32/tag*>.
+------------------------------------------------------------
 Version 3.1.7 (September 12, 2011)
 - Add <dummy-happy> and <dummy-sad>.
 - Add <e-book-reader-black>.
