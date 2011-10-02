@@ -1189,6 +1189,14 @@ dummy-small.png
 e-book-reader.png
 e-book-reader-black.png
 e-book-reader-white.png
+ear.png
+ear--arrow.png
+ear--exclamation.png
+ear--minus.png
+ear--pencil.png
+ear--plus.png
+ear-listen.png
+ear-right.png
 edit.png
 edit-alignment.png
 edit-alignment-center.png
@@ -1341,6 +1349,7 @@ film-timeline.png
 films.png
 fingerprint.png
 fingerprint-recognition.png
+fingerprint-recognition-fail.png
 fire.png
 fire--arrow.png
 fire--exclamation.png
@@ -1517,6 +1526,7 @@ hard-hat--minus.png
 hard-hat--pencil.png
 hard-hat--plus.png
 hard-hat-military.png
+hard-hat-military-camouflage.png
 hard-hat-mine.png
 headphone.png
 headphone--arrow.png
@@ -1652,6 +1662,8 @@ keyboard--minus.png
 keyboard--pencil.png
 keyboard--plus.png
 keyboard-command.png
+keyboard-full.png
+keyboard-full-wireless.png
 keyboard-space.png
 language.png
 language-balloon.png
@@ -2112,6 +2124,11 @@ paper-bag-label.png
 paper-bag-recycle.png
 paper-clip.png
 paper-clip-small.png
+paper-lantern.png
+paper-lantern-emblem.png
+paper-lantern-red.png
+paper-lantern-repast.png
+paper-lantern-repast-red.png
 paper-plane.png
 paper-plane--arrow.png
 paper-plane--exclamation.png
@@ -2856,7 +2873,10 @@ traffic-light--exclamation.png
 traffic-light--minus.png
 traffic-light--pencil.png
 traffic-light--plus.png
+traffic-light-green.png
 traffic-light-off.png
+traffic-light-red.png
+traffic-light-yellow.png
 train.png
 train--arrow.png
 train--exclamation.png

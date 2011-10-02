@@ -1,3 +1,12 @@
+Version 3.2 (October 1, 2011)
+- Add <ear*>.
+- Add <fingerprint-recognition-fail>.
+- Add <hard-hat-military-camouflage>.
+- Add <keyboard-full*>.
+- Add <paper-lantern*>.
+- Add <traffic-light-green>, <traffic-light-red> and
+  <traffic-light-yellow>.
+------------------------------------------------------------
 Version 3.1.8 (September 20, 2011)
 - Add <edit-heading-*>.
 - Add <regular-expression*>.
