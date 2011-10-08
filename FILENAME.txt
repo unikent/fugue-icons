@@ -213,6 +213,10 @@ asterisk.png
 asterisk-small.png
 asterisk-small-yellow.png
 asterisk-yellow.png
+at-sign.png
+at-sign-balloon.png
+at-sign-document.png
+at-sign-small.png
 auction-hammer.png
 auction-hammer--arrow.png
 auction-hammer--exclamation.png
@@ -615,6 +619,7 @@ building--exclamation.png
 building--minus.png
 building--pencil.png
 building--plus.png
+building-hedge.png
 building-low.png
 building-medium.png
 building-network.png
@@ -1279,8 +1284,10 @@ envelope--exclamation.png
 envelope--minus.png
 envelope--pencil.png
 envelope--plus.png
+envelope-at-sign.png
 envelope-label.png
 envelope-share.png
+envelope-string.png
 equalizer.png
 equalizer--arrow.png
 equalizer--exclamation.png
@@ -1535,6 +1542,9 @@ headphone--minus.png
 headphone--pencil.png
 headphone--plus.png
 headphone-microphone.png
+headstone.png
+headstone-cross.png
+headstone-rip.png
 heart.png
 heart--arrow.png
 heart--exclamation.png
@@ -1835,6 +1845,7 @@ mail--pencil.png
 mail--plus.png
 mail-forward.png
 mail-forward-all.png
+mail-at-sign.png
 mail-medium.png
 mail-open.png
 mail-open-document.png
@@ -1935,6 +1946,7 @@ microphone--minus.png
 microphone--pencil.png
 microphone--plus.png
 milestone.png
+milestone-calendar.png
 minus.png
 minus-button.png
 minus-circle.png
@@ -2250,6 +2262,7 @@ postage-stamp--exclamation.png
 postage-stamp--minus.png
 postage-stamp--pencil.png
 postage-stamp--plus.png
+postage-stamp-at-sign.png
 power-supply.png
 present.png
 present--arrow.png
@@ -2504,6 +2517,11 @@ sitemap.png
 sitemap-application.png
 sitemap-application-blue.png
 sitemap-image.png
+skull.png
+skull-happy.png
+skull-mad.png
+skull-old.png
+skull-sad.png
 slash.png
 slash-button.png
 slash-small.png
@@ -2876,6 +2894,7 @@ traffic-light--plus.png
 traffic-light-green.png
 traffic-light-off.png
 traffic-light-red.png
+traffic-light-single.png
 traffic-light-yellow.png
 train.png
 train--arrow.png
@@ -2883,6 +2902,7 @@ train--exclamation.png
 train--minus.png
 train--pencil.png
 train--plus.png
+train-metro.png
 trophy.png
 trophy--arrow.png
 trophy--exclamation.png
@@ -2897,6 +2917,8 @@ truck--exclamation.png
 truck--minus.png
 truck--pencil.png
 truck--plus.png
+truck-box.png
+truck-box-label.png
 truck-empty.png
 ui-accordion.png
 ui-address-bar.png

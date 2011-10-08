@@ -1,3 +1,16 @@
+Version 3.2.1 (October 8, 2011)
+- Add <at-sign*>.
+- Add <building-hedge>.
+- Add <envelope-at-sign> and <envelope-string>.
+- Add <headstone*>.
+- Add <mail-at-sign>.
+- Add <milestone-calendar>.
+- Add <postage-stamp-at-sign>.
+- Add <skull*>.
+- Add <traffic-light-single>.
+- Add <train-metro>.
+- Add <truck-box*>.
+------------------------------------------------------------
 Version 3.2 (October 1, 2011)
 - Add <ear*>.
 - Add <fingerprint-recognition-fail>.
