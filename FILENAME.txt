@@ -2627,6 +2627,10 @@ spectacle.png
 spectacle-3d.png
 spectacle-small.png
 spectacle-sunglass.png
+spectrum.png
+spectrum-absorption.png
+spectrum-emission.png
+spectrum-small.png
 spell-check.png
 spell-check-error.png
 sport.png
